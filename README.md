@@ -1,7 +1,5 @@
 # Ultimate Car Debugger Lite Documentation
 
----
-
 ## Overview
 
 The **Ultimate Car Debugger Lite** plugin is a specialized tool
@@ -13,8 +11,6 @@ This allows developers to fine-tune the car's behavior and performance during de
 [Watch the overview on YouTube!](https://youtu.be/nTbtopIjMqI)
 
 **Maximo Comperatore 2024. All rights reserved.**
-
----
 
 ## Installation
 
@@ -28,13 +24,9 @@ This allows developers to fine-tune the car's behavior and performance during de
 
 For any assistance, reach out to **[maxcomperatore@gmail.com](mailto:maxcomperatore@gmail.com)**.
 
----
-
 ## Usage
 
 ![general.png](imgs%2Fgeneral.png)
-
----
 
 ## Debug Visualizations
 
@@ -227,7 +219,6 @@ Here are the missing Blueprint functions from the **Ultimate Car Debugger Lite**
 
 - **Visualization Not Behaving as Expected:** If you encounter issues or see unexpected visualizations, use **Ctrl + Z** to undo your changes. If that doesn’t work, try disabling the node and compiling the project again to reset the debug visuals.
 
----
 
 ## Don't have the plugin yet?
 
