@@ -26,7 +26,7 @@ For any assistance, reach out to **[maxcomperatore@gmail.com](mailto:maxcomperat
 
 ## Usage
 
-![general.png](imgs%2Fgeneral.png)
+![general.png](imgs/general.png)
 
 ## Debug Visualizations
 
