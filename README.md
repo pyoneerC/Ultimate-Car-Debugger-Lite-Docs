@@ -10,7 +10,7 @@ It offers more than a dozen of powerful Blueprint functions for visualizing crit
 vehicle dynamics, and suspension behavior.
 This allows developers to fine-tune the car's behavior and performance during development.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nTbtopIjMqI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the overview on YouTube!](https://youtu.be/nTbtopIjMqI)
 
 **Maximo Comperatore 2024. All rights reserved.**
 
